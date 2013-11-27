@@ -13,12 +13,12 @@ buildjs.run();
 
 Command Line
 ------------
-# default build
-> node build
+  # default build
+  > node build
 
-# specify task
-> node build task
+  # specify task
+  > node build task
 
-# verbose logging
-> node build --verbose
-> node build -v
+  # verbose logging
+  > node build --verbose
+  > node build -v
